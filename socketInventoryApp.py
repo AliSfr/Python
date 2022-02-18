@@ -1,7 +1,7 @@
 import socket
 port_list = []
 banner_list = []
-with open("inventoryIP.txt","r",encoding="utf-8") as file:
+with open("socketInventoryIP.txt","r",encoding="utf-8") as file:
     icerik = file.read()
 for ip in icerik.splitlines():
     print(ip)
