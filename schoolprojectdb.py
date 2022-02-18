@@ -6,7 +6,7 @@ class School:
         self.connection = connect(
             host="localhost",
             user="root",
-            password="M123m2002s",
+            password="password",
             database="schoolprojectdb"
         )
         self.cursor = self.connection.cursor()
