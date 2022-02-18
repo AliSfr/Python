@@ -1,0 +1,2 @@
+API_KEY=your_API
+key=API_KEY
