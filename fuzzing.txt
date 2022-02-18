@@ -1,0 +1,6 @@
+/robots.txt
+/iletisim/
+/dvwa/
+/contact.php
+/login.php
+/admin.php
